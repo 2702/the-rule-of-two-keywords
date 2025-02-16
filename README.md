@@ -1,16 +1,12 @@
-# rule_of_two_keywords
+# Hello there!
 
-This template should help get you started developing with Vue 3 in Vite.
+It looks like you stumbled upon The Rule of Two (keywords) official repository! If you wish to raise an issue - go ahead! If you want to help and contribute - don't hesitate and reach out!
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
+This is a fun little side-project. Being a big fan of Star Wars Legion and a very rusty Engineering Manager I decided to brush off some skills. To make things harder it's a Backend Developer's attempt on getting into some Frontend. 
 
 ## Project Setup
+
+Typical NPM + Vue setup. 
 
 ```sh
 npm install
